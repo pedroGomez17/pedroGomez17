@@ -1,1 +1,1 @@
-" mi nombre es Pedro Gomez"
+" hola amigos"

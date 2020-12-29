@@ -3,11 +3,10 @@ Hola 👋Hola 👋
 
 Soy Pedro Gomez<br>
 
-🔭 Actualmente estoy trabajando en ...
+🔭 Actualmente estoy trabajando en ...<br>
 🌱 Actualmente estoy aprendiendo ...<br>
 👯 Estoy buscando colaborar en ...<br>
 🤔 Estoy buscando ayuda con ...<br>
-
 💬 Preguntame sobre ...<br>
 😄 Pronombres: ...<br>
 ⚡ Hecho de la diversión: .<br>

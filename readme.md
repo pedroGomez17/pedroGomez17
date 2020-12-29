@@ -1,16 +1,17 @@
 Hola 👋Hola 👋
 
 
-Soy Pedro Gomez
+Soy Pedro Gomez<br>
 
 🔭 Actualmente estoy trabajando en ...
-🌱 Actualmente estoy aprendiendo ...
-👯 Estoy buscando colaborar en ...
-🤔 Estoy buscando ayuda con ...
-💬 Preguntame sobre ...
-😄 Pronombres: ...
-⚡ Hecho de la diversión: .
-pedrogomez.1286@gmail.com
+🌱 Actualmente estoy aprendiendo ...<br>
+👯 Estoy buscando colaborar en ...<br>
+🤔 Estoy buscando ayuda con ...<br>
+
+💬 Preguntame sobre ...<br>
+😄 Pronombres: ...<br>
+⚡ Hecho de la diversión: .<br>
+pedrogomez.1286@gmail.com<br>
 
 
 
